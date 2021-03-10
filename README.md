@@ -2,7 +2,8 @@
 
 ## Deskripsi
 
-Selamat datang di Repository Git dari Sistem Informasi Alumni yang dibuat oleh saya.
+Selamat datang di Repository Cadangan dari Sistem Informasi Alumni yang dibuat oleh saya.
+Jika anda membutuhkan history commit dari Projek sini sihlakan pergi ke Repository utama di [Gitlab](https://gitlab.com/prjctsklh/sisinfo "Gitlab").
 
 ## Daftar Isi
 
